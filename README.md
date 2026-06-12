@@ -276,6 +276,8 @@ Contributions are welcome!
 
 ---
 
+deployment link - https://6a2c05a5fee50f00797d7f69--newtonslaw.netlify.app/
+
 # ⭐ Support
 
 If you found this project helpful:
